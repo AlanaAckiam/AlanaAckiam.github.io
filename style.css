@@ -1,0 +1,38 @@
+body{
+	background-color:#1b1b1b;
+	color:white;
+	font-family:Arial, sans-serif;
+	text-align:center;
+}
+
+h1{
+	color:#ffcc00;
+	font-size:40px;
+	text-decoration:underline;
+}
+
+p{
+	font-size:20px;
+}
+
+a{
+	display:inline-block;
+	margin:10px;
+	padding:12px 25px;
+	background-color:#ffcc00;
+	color:000000;
+	text-decoration:none;
+	font-weight:8px;
+	border-radius:8px;
+}
+
+a:hover{
+	background-color:#ffaa00;
+}
+
+img{
+	width:400px;
+	margin:20px;
+	border-radius:10px;
+}
+
